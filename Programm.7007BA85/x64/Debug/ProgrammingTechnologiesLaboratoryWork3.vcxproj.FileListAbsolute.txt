@@ -1,0 +1,3 @@
+D:\University\Programs\ProgrammingTechnologiesLaboratoryWork3\Programm.7007BA85\x64\Debug\ProgrammingTechnologiesLaboratoryWork3.vcxproj.AssemblyReference.cache
+D:\University\Programs\ProgrammingTechnologiesLaboratoryWork3\Programm.7007BA85\x64\Debug\ProgrammingTechnologiesLaboratoryWork3.MyForm.resources
+D:\University\Programs\ProgrammingTechnologiesLaboratoryWork3\Programm.7007BA85\x64\Debug\ProgrammingTechnologiesLaboratoryWork3.vcxproj.GenerateResource.cache
